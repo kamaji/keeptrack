@@ -36,3 +36,9 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
+
+gem "thin", ">= 1.5.0"
+gem "devise", ">= 2.1.2"
+gem "devise_invitable", ">= 1.1.1"
+gem "cancan", ">= 1.6.8"
+gem "rolify", ">= 3.2.0"
